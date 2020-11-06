@@ -7,6 +7,7 @@ There are 2 forms (left side form and right side form)  and 5 functional buttons
 
 ## Check list:
 1.Build Django function
+
     1.1  Startproject
     1.2 sync sqlite
     1.3 startapp
